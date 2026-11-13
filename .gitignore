@@ -1,3 +1,5 @@
 .*
 !.gitignore
+!.gear
+!.gear/rules
 build
